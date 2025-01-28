@@ -1,0 +1,14 @@
+{
+  "Percent.gd": 
+    {
+      "name": "Percent.gd",
+      "description": "Test",
+      "type": "Class"
+    },
+  "Player.gd":
+    {
+      "name": "Player.gd", 
+      "description": "Handles player movement and actions.", 
+      "type": "Node"
+    },
+}
