@@ -1,3 +1,5 @@
+extends Node
+
 func sort(a, key = null) -> Array:
 	if key == null:
 		key = func(x): return x
