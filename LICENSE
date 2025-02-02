@@ -21,11 +21,15 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 > Elements Licenses
->> Percent.gd
+>> Percent
 MIT 2025 Mahan Khalili
->> ELibI.gd
+>> ELibI
 MIT 2017-2019 Godot Explorer
->> GameConfigure.gd
+>> GameConfigure
 MIT 2023 Alexandros Theodoridis
->> ELibII.gd
+>> ELibII
 MIT 2023 Alexandros Theodoridis
+>> ShaderRenderTool
+MIT 2023 celyk
+>> ShaderTextEdit
+MIT 2023 celyk
