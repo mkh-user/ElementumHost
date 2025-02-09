@@ -15,4 +15,4 @@ func _ready() -> void:
         target = self
 
 func _process(_delta: float) -> void:
-    output.text = "%d, %d" % [target.position.x, target.position.y]
+    output.text = "%d, %d" % [target.global_position.x, target.global_position.y]
