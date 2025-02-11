@@ -6,5 +6,5 @@
 {"description":"A text box for editing a shader at runtime.","name":"ShaderTextEdit.gd","type":"Node"}, 
 {"description":"This class reads Bits from a PackedByteArray. Its supposed to be used in conjunction with the BitWriter, which allows for custom data compression.","name":"BitReader.gd","type":"Class"}, 
 {"description":"This class writes Bits to a PackedByteArray. Its supposed to be used in conjunction with the BitReader, which allows for custom data compression.","name":"BitWriter.gd","type":"Class"}, 
-{"description":"Get global from a node and set it to a label, if target is null set self for target and if output label is null will create a label and use it. You can use it for send position from one to another node with create text variable for output node.","name":"GlobalPosition.gd","type":"Node"},
+{"description":"Get global from a node and set it to a label. You can use it for send position from one to another node with create \"test\" variable for output node.","name":"GlobalPosition.gd","type":"Node"},
 {"description":"A button with a managed NinePatchRect background.","name":"NinePatchButton.gd","type":"Node"}
