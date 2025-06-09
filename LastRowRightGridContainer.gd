@@ -1,4 +1,4 @@
-class_name LRRGridContainer extends GridContainer
+extends GridContainer
 #extends GridContainer
 
 @export var shift_last_row_to_right: bool = false:
