@@ -1,6 +1,5 @@
-class_name NinePatchButton
 extends Button
-
+@extends Button
 
 @export var texture : Texture2D = null :
 	set( _new_value ):
