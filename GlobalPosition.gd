@@ -1,4 +1,5 @@
 extends CanvasLayer
+#extends CanvasLayer
 
 @export var target: Node
 @export var output: Label
