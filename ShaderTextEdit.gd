@@ -1,4 +1,4 @@
-class_name ShaderTextEdit extends TextEdit
+extends TextEdit
 #extends TextEdit
 
 ## A text box for editing a shader at runtime.
