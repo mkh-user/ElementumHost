@@ -6,4 +6,6 @@ Elementum is an innovative plugin for Godot 4, designed to empower you to effort
 > In the world of Elementum, "elements" encompass a diverse range of classes, nodes, and libraries, all of which reside in this repository—an essential hub connected seamlessly to the Godot editor for developers 
 > utilizing this plugin. While this repository primarily serves as a database, crafted more for functionality than for human viewing, it is a vital resource brimming with potential. 
 
-# For further insights and to unlock the full potential of the plugin, [see here](https://github.com/mkh-user/Elementum).
+## Want to share your element? send it [here](https://github.com/mkh-user/ElementumHost/issues)
+
+## For further insights and to unlock the full potential of the plugin, [see here](https://github.com/mkh-user/Elementum).
