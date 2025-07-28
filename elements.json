@@ -1,4 +1,10 @@
 [
+	
+	{
+		"description": "Class to stack multiple styleboxes into the same stylebox.",
+		"name": "StyleboxStack.gd",
+		"type": "Class"
+	},
 	{
 		"description": "A grid container with ability to align last row to right side.",
 		"name": "AlignableGridContainer.gd",
