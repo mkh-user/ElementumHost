@@ -1,6 +1,11 @@
 [
 	
 	{
+		"description": "Lets you exponentially tween in or out any Node3D.",
+		"name": "TweenExpo.gd",
+		"type": "Class"
+	},
+	{
 		"description": "Class to stack multiple styleboxes into the same stylebox.",
 		"name": "StyleboxStack.gd",
 		"type": "Class"
