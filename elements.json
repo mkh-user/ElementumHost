@@ -1,5 +1,9 @@
 [
-	
+	{
+		"description": "Text-based retro menu with keyborad navigation.",
+		"name": "TextMenu.gd",
+		"type": "Node"
+	},
 	{
 		"description": "Lets you exponentially tween in or out any Node3D.",
 		"name": "TweenExpo.gd",
